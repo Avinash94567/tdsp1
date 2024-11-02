@@ -1,6 +1,6 @@
 # GitHub Users and Repositories Analysis
 
-- I used the GitHub API to find users in Melbourne with over 100 followers. For each user, I fetched their details and up to 500 recent repositories, compiling the results into users.csv and repositories.csv while cleaning and formatting the data accordingly.
+- I used the GitHub API to find users in Berlin with over 200 followers. For each user, I fetched their details and up to 500 recent repositories, compiling the results into users.csv and repositories.csv while cleaning and formatting the data accordingly.
 - Licensed repositories have a consistent average count for both stargazers and watchers, indicating a potential positive impact of having a license.
 - Developers should add licenses to their repositories. Licensed projects tend to attract more stargazers and watchers, indicating that clear usage rights enhance engagement and contribute to a more vibrant community around their work.
 
