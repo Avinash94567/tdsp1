@@ -180,9 +180,9 @@ def main():
 
     # Create README.md
     with open('README.md', 'w') as f:
-        f.write(f"""# GitHub Users in Delhi
+        f.write(f"""# GitHub Users in Berlin
 
-This repository contains data about GitHub users in Delhi with over 100 followers and their repositories.
+This repository contains data about GitHub users in Berlin with over 200 followers and their repositories.
 
 ## Files
 
